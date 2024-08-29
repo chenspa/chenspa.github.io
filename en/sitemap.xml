@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chenspa.github.io/en/categories/</loc>
+    <loc>http://localhost:8113/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://chenspa.github.io/categories/"
+                href="http://localhost:8113/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://chenspa.github.io/ar/categories/"
+                href="http://localhost:8113/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chenspa.github.io/en/categories/"
+                href="http://localhost:8113/en/categories/"
                 />
   </url><url>
-    <loc>https://chenspa.github.io/en/</loc>
+    <loc>http://localhost:8113/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://chenspa.github.io/"
+                href="http://localhost:8113/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://chenspa.github.io/ar/"
+                href="http://localhost:8113/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chenspa.github.io/en/"
+                href="http://localhost:8113/en/"
                 />
   </url><url>
-    <loc>https://chenspa.github.io/en/tags/</loc>
+    <loc>http://localhost:8113/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://chenspa.github.io/tags/"
+                href="http://localhost:8113/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://chenspa.github.io/ar/tags/"
+                href="http://localhost:8113/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chenspa.github.io/en/tags/"
+                href="http://localhost:8113/en/tags/"
                 />
   </url>
 </urlset>
